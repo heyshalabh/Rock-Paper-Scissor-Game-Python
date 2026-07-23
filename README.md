@@ -7,7 +7,7 @@
      <h5>from random import *</h5></ul>
    <p>Select Rock Paper or Scissors and click on spin the top label shows whos turn it is and botton label shows who won either computer or you. </p>
 
-![image]screenshot.png
+![screenshot.png]screenshot.png
 <br>
 <p>And that's it. Congratulations You have built your First Rock-Paper-Scissors GUI Game
  in python👏👏</p>
